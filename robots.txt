@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rentain.github.io/sitemap.html.gz
+Sitemap: https://rentain.github.io/app/sitemap.html.gz
+Sitemap: https://rentain.github.io/assets/sitemap.html.gz
+Sitemap: https://rentain.github.io/css/sitemap.html.gz
+Sitemap: https://rentain.github.io/data/sitemap.html.gz
+Sitemap: https://rentain.github.io/includes/sitemap.html.gz
+Sitemap: https://rentain.github.io/item/sitemap.html.gz
+Sitemap: https://rentain.github.io/src/sitemap.html.gz
